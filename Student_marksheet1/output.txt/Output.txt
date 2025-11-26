@@ -1,0 +1,65 @@
+
+					Dedan Kimathi University of Technology
+						School of Computer Science and IT
+							Department of Computer Science
+								Academic Year: 2024/2025
+				STUDENT MARKSHEET (SECOND YEAR RESULTS)
+Enter Reg No (Student 1): C026-01-0795/2024
+Enter Full Name: Nathan Kipyegon
+Enter CCS 2207 Marks: 73
+Enter CCS 2208 Marks: 76
+Enter CCS 2209 Marks: 74
+Enter CCS 2210 Marks: 78
+Enter CSS 2211 Marks: 79
+Enter SMA 2215 Marks: 80
+Enter IGS 2202 Marks: 76
+Enter Reg No (Student 2): C026-01-2376/2024
+Enter Full Name: Obadiah Kemboi
+Enter CCS 2207 Marks: 76
+Enter CCS 2208 Marks: 73
+Enter CCS 2209 Marks: 72
+Enter CCS 2210 Marks: 70
+Enter CCS 2211 Marks: 71
+Enter SMA 2215 Marks: 80
+Enter IGS 2202 Marks: 85
+Enter Reg No (Student 3): C026-01-0842/2024
+Enter Full Name: Charles Babbage
+Enter CCS 2207 Marks: 78
+Enter CCS 2208 Marks: 74
+Enter CCS 2209 Marks: 76
+Enter CCS 2210 Marks: 80
+Enter CCS 2211 Marks: 80
+Enter SMA 2215 Marks: 82
+Enter IGS 2202 Marks: 76
+Enter Reg No (Student 4): C026-01-2578/2024
+Enter Full Name: Linus Torvalds
+Enter CCS 2207 Marks: 76
+Enter CCS 2208 Marks: 71
+Enter CCS 2209 Marks: 72
+Enter CCS 2210 Marks: 80
+Enter CCS 2211 Marks: 75
+Enter SMA 2215 Marks: 80
+Enter IGS 2202 Marks: 86
+Enter Reg No (Student 5): C026-01-0956/2024
+Enter Full Name: Tim Berbers-Lee
+Enter CCS 2207 Marks: 76
+Enter CCS 2208 Marks: 78
+Enter CSS 2209 Marks: 74
+Enter CCS 2210 Marks: 79
+Enter CCS 2211 Marks: 71
+Enter SMA 2215 Marks: 80
+Enter IGS 2202 Marks: 85
+
+STUDENT SCORE SHEET
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Reg No.              Full Name            2207       2208       2209       2210       2211       SMA2215    IGS2202    TOTAL      AVERAGE        STATUS      GRADE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C026-01-0795/2024    Nathan Kipyegon      73         76         74         78         79         80         76         536        76.6                            
+C026-01-2376/2024    Obadiah Kemboi       76         73         72         70         71         80         85         527        75.3                            
+C026-01-0842/2024    Charles Babbage      78         74         76         80         80         82         76         546        78.0                            
+C026-01-2578/2024    Linus Torvalds       76         71         72         80         75         80         86         540        77.1                            
+C026-01-0956/2024    Tim Berbers-Lee      76         78         74         79         71         80         85         543        77.6                            
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Process finished with exit code 0
+
